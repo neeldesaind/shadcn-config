@@ -1,6 +1,3 @@
-Here is a clean and well-formatted `README.md` that documents your full setup steps for a Vite + Tailwind CSS + ShadCN UI project, including optional bulk component installation with `shadcn-installer`:
-
-````md
 # 🧪 Shad-Vite
 
 A modern frontend stack using **Vite**, **React**, **Tailwind CSS**, and **ShadCN UI**.
